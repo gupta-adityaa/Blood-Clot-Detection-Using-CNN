@@ -39,18 +39,13 @@ The dataset consists of:
 ## **Installation & Usage**
 ### **1️⃣ Clone the Repository**
 ```bash
-git clone https://github.com/yourusername/BloodClotDetection.git
+git clone https://github.com/gupta-adityaa/BloodClotDetection.git
 cd BloodClotDetection
 ```
 
 ### **2️⃣ Install Dependencies**
 ```bash
 pip install -r requirements.txt
-```
-
-### **3️⃣ Run the Model**
-```bash
-python train_model.py
 ```
 
 ## **Future Scope**
